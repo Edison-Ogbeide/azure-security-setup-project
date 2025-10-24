@@ -1,7 +1,7 @@
 # Azure Security Setup - Detailed Implementation Guide
 
 **Project**: Azure Security Setup Project  
-**Author**: [Your Name]  
+**Author**: Endurance Joseph Ogbeide  
 **Last Updated**: October 2025  
 **Estimated Time**: 2-3 hours  
 **Difficulty**: Beginner to Intermediate
@@ -2029,7 +2029,7 @@ Perf
 
 **Document Version**: 1.0  
 **Last Updated**: October 2025  
-**Author**: [Your Name]  
+**Author**: Endurance Joseph Ogbeide  
 **License**: MIT
 
 ---
