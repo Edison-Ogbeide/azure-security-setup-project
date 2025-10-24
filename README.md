@@ -346,7 +346,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Connect With Me
 
 - **LinkedIn**: www.linkedin.com/in/endurance-joseph-ogbeide-a60831221
-- **GitHub**: [[Your GitHub Profile]](https://github.com/Edison-Ogbeide)
+- **GitHub**: https://github.com/Edison-Ogbeide
 - **Email**: edisonogbeide@gmail.com
 
 ---
