@@ -250,30 +250,6 @@ Heartbeat
 
 ---
 
-## 🚀 Future Improvements
-
-### Short-term Enhancements
-- [ ] Implement Azure Bastion for more secure remote access
-- [ ] Add Azure Security Center recommendations
-- [ ] Configure diagnostic settings for NSG flow logs
-- [ ] Set up automated backup solution
-- [ ] Implement patch management automation
-
-### Medium-term Goals
-- [ ] Deploy Azure Key Vault for secret management
-- [ ] Add Azure DDoS Protection
-- [ ] Implement Just-in-Time (JIT) VM access
-- [ ] Configure Microsoft Defender for Cloud
-- [ ] Set up geo-redundant backup
-
-### Long-term Vision
-- [ ] Multi-region deployment with load balancing
-- [ ] Implement Infrastructure as Code (Terraform/Bicep)
-- [ ] CI/CD pipeline for configuration updates
-- [ ] SIEM integration for advanced threat detection
-- [ ] Compliance automation (CIS benchmarks)
-
----
 
 ## 🔄 How to Replicate This Project
 
@@ -369,20 +345,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Connect With Me
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [Your GitHub Profile]
-- **Portfolio**: [Your Portfolio Website]
-- **Email**: [Your Email]
+- **LinkedIn**: www.linkedin.com/in/endurance-joseph-ogbeide-a60831221
+- **GitHub**: [[Your GitHub Profile]](https://github.com/Edison-Ogbeide)
+- **Email**: edisonogbeide@gmail.com
 
 ---
 
-## 🙏 Acknowledgments
-
-- Microsoft Azure documentation and learning paths
-- Azure Security Best Practices guides
-- Cloud security community for knowledge sharing
-
----
 
 ## 📊 Project Stats
 
